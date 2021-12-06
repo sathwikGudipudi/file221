@@ -33,4 +33,4 @@ s.no|name|roll number
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 
-	~~This was mistaken text~~
+~~This was mistaken text~~
